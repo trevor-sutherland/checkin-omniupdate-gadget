@@ -1,0 +1,6 @@
+pages:
+  script:
+  - cat
+  artifacts:
+    paths:
+    - public
